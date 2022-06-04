@@ -9,7 +9,7 @@ This application is pretty simple. It's kind of like a choose your own adventure
 I wanted to stretch my legs with Android application development. I've made applcations in Unity before, but Unity wouldn't be as good of a tool for developing an app for a company. (Walmart, Target, Subway, SRP, ect)
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Application Demo Video][(http://youtube.link.goes.here](https://youtu.be/ArNQKtkXl9c))
 
 # Development Environment
 
